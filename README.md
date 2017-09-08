@@ -1,4 +1,4 @@
-Aurora Template - [Demo](http://dominikserafin.github.io/aurora-template)
+Aurora Template - [Demo](http://websitebloger.github.io/aurora-template)
 ===============
 
 ### A free HTML5 template for personal and commercial usage.
@@ -8,19 +8,19 @@ It was created for my [personal portfolio](http://serafin.io/?utm_source=Aurora-
 
 #### Share Template
 
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fserafin.io%2Faurora-template%2F&t=Free%20Aurora%20Template)
-- [Share on Twitter](https://twitter.com/intent/tweet?source=http%3A%2F%2Fserafin.io%2Faurora-template%2F&text=Free%20Aurora%20Template:%20http%3A%2F%2Fserafin.io%2Faurora-template%2F&via=SerafinDominik)
-- [Share on Google+](https://plus.google.com/share?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F)
-- [Post to Tumblr](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fserafin.io%2Faurora-template%2F&t=Free%20Aurora%20Template&s=)
-- [Pin It](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F&description=Beautiful%20free%20HTML5%20template%20created%20by%20Dominik%20Serafin.)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsamuelbetio%2Faurora-template%2F&t=Free%20Aurora%20Template)
+- [Share on Twitter](https://twitter.com/intent/tweet?source=http%3A%2F%2Fsamuelbetio%2Faurora-template%2F&text=Free%20Aurora%20Template:%20http%3A%2F%2Fserafin.io%2Faurora-template%2F&via=SerafinDominik)
+- [Share on Google+](https://plus.google.com/share?url=http%3A%2F%2Fsamuelbetio%2Faurora-template%2F)
+- [Post to Tumblr](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fsamuelbetio%2Faurora-template%2F&t=Free%20Aurora%20Template&s=)
+- [Pin It](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsamuelbetio%2Faurora-template%2F&description=Beautiful%20free%20HTML5%20template%20created%20by%20Samuel%20Betio)
 
 
 
 #### Follow Me
 
-- [Follow me on Twitter](https://twitter.com/SerafinDominik)
-- [Follow me on Dribbble](https://dribbble.com/DominikSerafin)
-- [Follow me on Behance](https://www.behance.net/dominikserafin)
+- [Follow me on Twitter](https://twitter.com/samuelbetio)
+- [Follow me on Dribbble](https://dribbble.com/samuelbetio)
+- [Follow me on Behance](https://www.behance.net/samuelbetio)
 
 
 
